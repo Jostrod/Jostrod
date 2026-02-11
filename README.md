@@ -1,4 +1,4 @@
-# [Your Name]
+# Jostein
 
 Computer Engineering bachelor student focused on software development, systems, and performance-oriented programming.  
 Building practical projects across backend, frontend, and low-level environments with an emphasis on structure, clarity, and scalability.
