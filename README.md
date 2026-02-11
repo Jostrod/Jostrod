@@ -7,18 +7,18 @@ Building practical projects across backend, frontend, and low-level environments
 
 ## About Me
 
-- 🎓 Bachelor in Computer Engineering (ongoing)
+- 🎓 Bachelor in Computer Engineering (ongoing, on my 2nd year at this time)
 - 💻 Interested in backend systems, algorithms, and software architecture
 - ⚙️ Focused on writing clean, maintainable, and efficient code
-- 🥁 Drummer — strong belief in discipline, structure, and iteration
+- 🥁 Musician - i have developed dicipline and practiced creative thinking through many years of doing music
 
 ---
 
 ## Current Focus
 
-- Building: [Short description of current main project]
-- Learning: [Technology / concept you're actively improving]
-- Improving: [Specific skill, e.g. multithreading, system design, testing]
+- Currently building a three-band EQ. Both as a standalone software and as a plugin for any DAW
+- I am currently learning how to build c++ apps with the JUCE framework.
+
 
 ---
 
@@ -36,56 +36,20 @@ Building practical projects across backend, frontend, and low-level environments
 - Git
 - Maven / Gradle
 - MySQL
-- Linux
+- JUCE
 
 ---
 
-## Selected Projects
-
-### [Project Name 1]
-Short description of what it is.  
-What problem it solves.  
-What technologies were used.  
-Key learning outcome.
-
-Repository: [Link]
-
----
-
-### [Project Name 2]
-Short description.  
-Focus area (e.g., algorithms, GUI, multithreading, database design).
-
-Repository: [Link]
-
----
-
-### [Project Name 3]
-Short description.  
-Technical highlight (performance, architecture, concurrency, etc.)
-
-Repository: [Link]
-
----
-
-## Engineering Principles
-
-- Prefer understanding fundamentals over relying on abstraction
-- Write code that is readable before it is clever
-- Focus on long-term maintainability
-- Treat projects as portfolio pieces, not assignments
-
----
 
 ## Long-Term Direction
 
 Interested in backend engineering, scalable systems, and performance-critical software.  
-Currently building a portfolio that reflects production-level thinking and strong fundamentals.
+I wish to develop further as an software engineer, both in terms of frontend and backend. 
 
 ---
 
 ## Contact
 
-- LinkedIn: [Link]
-- Email: [Optional]
+- LinkedIn: [https://www.linkedin.com/in/jostein-rodahl-240189388/]
+- Email: [josein.rodahl@hotmail.com]
 
