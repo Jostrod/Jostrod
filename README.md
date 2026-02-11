@@ -26,14 +26,16 @@ Building practical projects across backend, frontend, and low-level environments
 
 ### Languages
 - Java
+- C
 - C++
+- Python
 - JavaScript
 - SQL
 
 ### Frameworks & Tools
 - Spring Boot
 - Vue.js
-- Git
+- Git and GitHub
 - Maven / Gradle
 - MySQL
 - JUCE
@@ -42,9 +44,8 @@ Building practical projects across backend, frontend, and low-level environments
 
 
 ## Long-Term Direction
-
-Interested in backend engineering, scalable systems, and performance-critical software.  
-I wish to develop further as an software engineer, both in terms of frontend and backend. 
+ 
+I hope to further my creativity and problem solving skills, but also create systems that helps people in one way or another.
 
 ---
 
