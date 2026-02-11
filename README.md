@@ -1,5 +1,7 @@
 ## Hi!
 
+I’m currently working on building my own EQ. My goal is to get it woring as a plugin on any DAW, in adition to beeing a standalone application. 
+
 <!--
 **Jostrod/Jostrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
