@@ -10,7 +10,7 @@ Building practical projects across backend, frontend, and low-level environments
 - 🎓 Bachelor in Computer Engineering (ongoing, on my 2nd year at this time)
 - 💻 Interested in backend systems, algorithms, and software architecture
 - ⚙️ Focused on writing clean, maintainable, and efficient code
-- 🥁 Musician - i have developed dicipline and practiced creative thinking through many years of doing music
+  
 
 ---
 
