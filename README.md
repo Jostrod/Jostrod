@@ -41,6 +41,7 @@ Building practical projects across backend, frontend, and low-level environments
 - Git and GitHub
 - Maven / Gradle
 - MySQL
+- Docker
 - JUCE
 - Raspberry PI
 
