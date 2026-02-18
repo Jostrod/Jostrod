@@ -29,8 +29,11 @@ Building practical projects across backend, frontend, and low-level environments
 - C
 - C++
 - Python
-- JavaScript
 - SQL
+- HTTP
+- CSS
+- JavaScript
+  
 
 ### Frameworks & Tools
 - Spring Boot
