@@ -42,6 +42,7 @@ Building practical projects across backend, frontend, and low-level environments
 - Maven / Gradle
 - MySQL
 - JUCE
+- Raspberry PI
 
 ---
 
