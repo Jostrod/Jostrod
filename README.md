@@ -35,7 +35,7 @@ Building practical projects across backend, frontend, and low-level environments
 - JavaScript
   
 
-### Frameworks & Tools
+### Frameworks, Databases & Tools
 - Spring Boot
 - Vue.js & Nuxt
 - Git and GitHub
