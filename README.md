@@ -16,8 +16,8 @@ Building practical projects across backend, frontend, and low-level environments
 
 ## Current Focus
 
-- Currently building a three-band EQ. Both as a standalone software and as a plugin for any DAW
-- I am currently learning how to build c++ apps with the JUCE framework.
+- Currently building a three-band EQ. Both as a standalone software and as a plugin for any DAW.
+- I am also currently developting a pring-boot website for my band. 
 
 
 ---
@@ -30,18 +30,19 @@ Building practical projects across backend, frontend, and low-level environments
 - C++
 - Python
 - SQL
-- HTTP
 - CSS
 - JavaScript
+- TypeScript
   
 
-### Frameworks, Databases & Tools
+### Frameworks, Databases, Tools & Other
 - Spring Boot
 - Vue.js & Nuxt
 - Git and GitHub
 - Maven / Gradle
 - MySQL
 - Docker
+- Tailwind
 - JUCE
 - Raspberry PI
 
