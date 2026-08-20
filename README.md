@@ -31,8 +31,7 @@ Building practical projects across backend, frontend, and low-level environments
 - Python
 - SQL
 - CSS
-- JavaScript
-- TypeScript
+- JavaScript & TypeScript
   
 
 ### Frameworks, Databases, Tools & Other
