@@ -1,6 +1,6 @@
 # Jostein
 
-Computer Engineering student at NTNU, focused on full-stack development.
+Computer Engineering student at NTNU, focused on full-stack development. 
 
 ## Current focus
 - **[RatNeck-Bandpage](https://github.com/Jostrod/RatNeck-Bandpage)** – website with a concert management API for my band, built with Nuxt 3 and Spring Boot (merch store planned)
@@ -8,9 +8,9 @@ Computer Engineering student at NTNU, focused on full-stack development.
 
 ## Tech stack
 **Languages:** Java, TypeScript, JavaScript, Python, C++, C, SQL, HTML/CSS  
-**Frameworks:** Spring Boot, Vue.js, Nuxt, Pinia, Tailwind, JUnit 5, Mockito, JUCE  
+**Frameworks:** Spring Boot, Vue.js, Nuxt, Pinia, Tailwind, JUnit 5, Mockito  
 **Databases:** MySQL, H2  
-**Tools:** Git, Docker, Maven/Gradle, IntelliJ IDEA, Godot, Raspberry Pi
+**Tools:** Git, Docker, Maven/Gradle, IntelliJ IDEA, Godot, Raspberry Pi, Postman 
 
 ## Contact
 - LinkedIn: [jostein-rodahl](https://www.linkedin.com/in/jostein-rodahl-240189388/)
