@@ -5,7 +5,6 @@ Computer Engineering student at NTNU (graduating summer 2027) with a completed b
 ## Current focus
 - **[RatNeck-Bandpage](https://github.com/Jostrod/RatNeck-Bandpage)** – website and merch store for my band, built with Nuxt 3 and a Spring Boot REST API
 - **Foveal** – adapting a clinical test for spatial neglect to VR in Godot (university project)
-- **JUCE EQ** – a three-band EQ as a standalone app and DAW plugin (C++/JUCE)
 
 ## Tech stack
 **Languages:** Java, TypeScript, JavaScript, Python, C++, C, SQL, HTML/CSS  
