@@ -1,61 +1,18 @@
 # Jostein
 
-Computer Engineering bachelor student focused on software development, systems, and performance-oriented programming.  
-Building practical projects across backend, frontend, and low-level environments with an emphasis on structure, clarity, and scalability.
+Computer Engineering student at NTNU (graduating summer 2027) with a completed bachelor's degree in musicology. I build full-stack applications with Vue, TypeScript and Spring Boot, and I'm especially interested in where music and technology meet.
 
----
+## Current focus
+- **[RatNeck-Bandpage](https://github.com/Jostrod/RatNeck-Bandpage)** – website and merch store for my band, built with Nuxt 3 and a Spring Boot REST API
+- **Foveal** – adapting a clinical test for spatial neglect to VR in Godot (university project)
+- **JUCE EQ** – a three-band EQ as a standalone app and DAW plugin (C++/JUCE)
 
-## About Me
-
-- 🎓 Bachelor in Computer Engineering (ongoing, on my 2nd year at this time)
-- 💻 Interested in backend systems, algorithms, and software architecture
-- ⚙️ Focused on writing clean, maintainable, and efficient code
-  
-
----
-
-## Current Focus
-
-- Currently building a three-band EQ. Both as a standalone software and as a plugin for any DAW.
-- I am also currently developting a pring-boot website for my band. 
-
-
----
-
-## Tech Stack
-
-### Languages
-- Java
-- C
-- C++
-- Python
-- SQL
-- CSS
-- JavaScript & TypeScript
-  
-
-### Frameworks, Databases, Tools & Other
-- Spring Boot
-- Vue.js & Nuxt
-- Git and GitHub
-- Maven / Gradle
-- MySQL
-- Docker
-- Tailwind
-- JUCE
-- Raspberry PI
-
----
-
-
-## Long-Term Direction
- 
-I hope to further my creativity and problem solving skills, but also create systems that helps people in one way or another.
-
----
+## Tech stack
+**Languages:** Java, TypeScript, JavaScript, Python, C++, C, SQL, HTML/CSS  
+**Frameworks:** Spring Boot, Vue.js, Nuxt, Pinia, Tailwind, JUnit 5, Mockito, JUCE  
+**Databases:** PostgreSQL, MySQL, H2  
+**Tools:** Git, Docker, Maven/Gradle, IntelliJ IDEA, Godot, Raspberry Pi
 
 ## Contact
-
-- LinkedIn: [https://www.linkedin.com/in/jostein-rodahl-240189388/]
-- Email: [josein.rodahl@hotmail.com]
-
+- LinkedIn: [jostein-rodahl](https://www.linkedin.com/in/jostein-rodahl-240189388/)
+- Email: [jostein.rodahl@hotmail.com](mailto:jostein.rodahl@hotmail.com)
