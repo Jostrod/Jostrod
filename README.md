@@ -9,7 +9,7 @@ Computer Engineering student at NTNU, focused on full-stack development.
 ## Tech stack
 **Languages:** Java, TypeScript, JavaScript, Python, C++, C, SQL, HTML/CSS  
 **Frameworks:** Spring Boot, Vue.js, Nuxt, Pinia, Tailwind, JUnit 5, Mockito, JUCE  
-**Databases:** PostgreSQL, MySQL, H2  
+**Databases:** MySQL, H2  
 **Tools:** Git, Docker, Maven/Gradle, IntelliJ IDEA, Godot, Raspberry Pi
 
 ## Contact
