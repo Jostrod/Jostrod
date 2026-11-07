@@ -3,7 +3,7 @@
 Computer Engineering student at NTNU, focused on full-stack development. 
 
 ## Current focus
-- **[RatNeck-Bandpage](https://github.com/Jostrod/RatNeck-Bandpage)** – website with a concert management API for my band, built with Nuxt 3 and Spring Boot (merch store planned)
+- **[RatNeck-Bandpage](https://github.com/Jostrod/RatNeck-Bandpage)** – website with a concert and merch API for my band, built with Nuxt 3 and Spring Boot (orders and payments planned)
 - **Foveal** – adapting a clinical test for spatial neglect to VR in Godot (university project)
 
 ## Tech stack
